@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is a blog for all things ]]**Mobile** development and **Mobile** technology and it's advancement. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Mobile Development Professionals (MDevPro) is an organisation focused on training mobile world class professionals on cutting edge web applications on your Smartphone. Our curriculum includes Introduction to the Internet, Linux and Termux command line, Neovim editor, HTML 5, CSS, Javascript, Bootstrap and PHP.
 
-### Contact me
+### Contact Details
+**Phone:** (234) 815-303-9003 | 
 
-[email@domain.com](mailto:email@domain.com)
+**Email:** [info@themobileprof.com](mailto:info@themobileprof.com) | 
+
+**Whatapp:** +2348153039003 |
+
+**Address:** 3 Thorburn Avenue, Sabo, Yaba, Lagos, Nigeria. (First Floor)
