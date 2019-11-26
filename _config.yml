@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /blog/
+baseurl: /
 
 # Website info
 title: The Mobile Prof
@@ -17,7 +17,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/frontpage.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://themobileprof.github.io/blog/
+production_url: https://themobileprof.github.io
 source_url: https://github.com/themobileprof/themobileprof.github.io/
 CNAME: #add cname for website to be created
 
@@ -74,9 +74,9 @@ lsi: False
 username: themobileprof
 repo: themobileprof.github.io
 branch: master
-relative_source: ../blog/
-destination: ../blog-pages/
-production_url:  https://themobileprof.github.io/blog/
+relative_source: ../
+destination: ../
+production_url:  https://themobileprof.github.io
 source_url:  https://github.com/themobileprof/themobileprof.github.io/
 
 exclude:
